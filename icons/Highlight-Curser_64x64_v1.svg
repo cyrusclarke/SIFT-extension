@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st1{fill:#3A3A3A;}
+	.st2{fill:#0A425D;}
+	.st3{fill:#FFFFFF;}
+</style>
+<g id="XMLID_442_">
+	<polyline id="XMLID_444_" class="st0" points="35.7,41 44.7,32 35.7,23 	"/>
+	<line id="XMLID_15_" class="st0" x1="44.7" y1="32" x2="19.3" y2="32"/>
+</g>
+<path id="XMLID_1_" class="st1" d="M9,7h46c1.1,0,2,0.9,2,2v46c0,1.1-0.9,2-2,2H9c-1.1,0-2-0.9-2-2V9C7,7.9,7.9,7,9,7z"/>
+<path id="XMLID_10_" class="st2" d="M9,7h46c1.1,0,2,0.9,2,2v46c0,1.1-0.9,2-2,2H9c-1.1,0-2-0.9-2-2V9C7,7.9,7.9,7,9,7z"/>
+<image style="overflow:visible;" width="209" height="84" xlink:href="78429C0A.jpg"  transform="matrix(1 0 0 1 -258 -35)">
+</image>
+<g>
+	<path class="st3" d="M22,50.5c0.5,0.5,1.2,0.7,2,0.7c0.9,0,1.4-0.3,1.4-1c0-0.5-0.3-0.9-0.9-1c-0.3,0-0.6-0.1-0.9-0.1
+		c-0.6-0.1-1-0.3-1.4-0.7c-0.3-0.4-0.5-0.8-0.5-1.3c0-0.6,0.2-1.1,0.6-1.5c0.4-0.4,0.9-0.6,1.6-0.6c0.9,0,1.6,0.3,2.2,0.7l-0.6,0.9
+		c-0.5-0.4-1.1-0.5-1.7-0.5c-0.3,0-0.6,0.1-0.8,0.2c-0.2,0.2-0.3,0.4-0.3,0.8c0,0.2,0.1,0.4,0.2,0.6c0.2,0.2,0.4,0.3,0.7,0.4
+		c0.2,0,0.4,0.1,0.8,0.1c0.6,0.1,1.1,0.3,1.4,0.7c0.3,0.4,0.5,0.8,0.5,1.3c0,1.4-0.8,2.1-2.4,2.1c-1,0-1.9-0.3-2.6-1L22,50.5z"/>
+	<path class="st3" d="M28.4,45.1h1v7.1h-1V45.1z"/>
+	<path class="st3" d="M31.7,45.1h4.4v1h-3.4v2.1h2.9v1h-2.9v3h-1V45.1z"/>
+	<path class="st3" d="M39,46.1h-1.9v-1h4.8v1H40v6.2h-1V46.1z"/>
+</g>
+<g>
+	<polygon class="st0" points="32,24.9 25,27.2 17.4,21.4 20.9,13.8 30.7,16.4 	"/>
+	<polygon class="st0" points="32.3,25.5 37.6,28.9 36.7,38.1 28.2,38.1 26.4,30.3 	"/>
+	<polygon class="st0" points="32.4,24.9 39.4,27.2 47,21.4 43.6,13.8 33.7,16.4 	"/>
+</g>
+</svg>
